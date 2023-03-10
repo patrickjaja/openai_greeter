@@ -1,7 +1,7 @@
 OpenAI Greeter Bash Script
 ==========================
 
-This is a Bash script that uses the OpenAI API to generate a short greeting message. The script prompts the user to enter their name, and then sends a request to the OpenAI API to generate a greeting message based on the provided name.
+This is a Bash script that uses the OpenAI API to generate a short greeting message. The script can be added on startup, to suprise you with a fancy greeting message. Perfect use for lonley developer in homeoffice.
 
 Prerequisites
 -------------
